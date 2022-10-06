@@ -20,3 +20,4 @@ def conversionador(valor, esc):
         print(file.read())
         file.seek(0, 0)
         file.close()
+print('eu sou pobre')
